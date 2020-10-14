@@ -1,0 +1,29 @@
+img{
+    width: 800px;
+    height: 400px;
+
+}
+footer{
+   
+    background-color: black; 
+    color: white; 
+    
+}
+a{
+    color: white;
+    text-align: end;
+    margin-left: 250px;
+    font-size: large;
+    margin-top: 100px;
+}
+nav{
+    background-color: black;
+    height: 70px;
+}
+article{
+    text-align: center;
+}
+#footer_link{
+    text-align: center;
+    margin-right: 20px;
+}

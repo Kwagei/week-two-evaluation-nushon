@@ -1,0 +1,91 @@
+#hdiv{
+    background-color: rgb(11, 53, 102);
+    height: 100px;
+}
+
+.head1{
+    text-align: center;
+    color:  rgb(167, 33, 33);
+    
+}
+.p1{
+    text-align: center;
+    color: white;
+    
+}
+.p2{
+    text-align: center;
+    color: rgb(167, 33, 33);
+}
+.head2{
+    text-align: center;
+    color: rgb(11, 53, 102);
+}
+.artl_head{
+    color: rgb(11, 53, 102);
+}
+.p{
+    text-align: center;
+    letter-spacing: normal;
+    word-spacing: 3px;
+    font-size: 18px;
+}
+p{
+    word-spacing: 3px;
+    font-size: 18px;
+}
+#img_div1{
+    width: 600px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    margin-left: 25%;
+}
+#article_div{
+
+}
+#content_div{
+    width: 300px;
+
+}
+#footer{
+    text-align: center;
+    background-color:rgb(11, 53, 102);
+    padding: 20px;
+}
+video{
+    margin-left: 250px;
+    border-style: dotted;
+    border-radius: 10px;
+
+}
+.img2{
+    border-radius: 300px;
+    margin-top: 100px;
+}
+.img1{
+    margin-top: 20px;
+}
+.video_p{
+    width: 100px;
+}
+.writer{
+    color: rgb(11, 53, 102);
+}
+.content{
+    color: rgb(167, 33, 33);
+}
+.logo{
+    border-radius: 500px;
+    float: left;
+    height: 85px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+body{
+    background-color: rgb(224, 235, 245);
+    font-family: 'Sansita Swashed', cursive;
+    opacity: ;
+}
+a{
+    color: black;
+}
